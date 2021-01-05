@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/coding-bootcamp-landing-page/static/css/main.5a5867ae.chunk.css",
+    "main.js": "/coding-bootcamp-landing-page/static/js/main.d9855f1a.chunk.js",
+    "main.js.map": "/coding-bootcamp-landing-page/static/js/main.d9855f1a.chunk.js.map",
+    "runtime-main.js": "/coding-bootcamp-landing-page/static/js/runtime-main.bd1da652.js",
+    "runtime-main.js.map": "/coding-bootcamp-landing-page/static/js/runtime-main.bd1da652.js.map",
+    "static/js/2.89c41df5.chunk.js": "/coding-bootcamp-landing-page/static/js/2.89c41df5.chunk.js",
+    "static/js/2.89c41df5.chunk.js.map": "/coding-bootcamp-landing-page/static/js/2.89c41df5.chunk.js.map",
+    "static/js/3.a1a98823.chunk.js": "/coding-bootcamp-landing-page/static/js/3.a1a98823.chunk.js",
+    "static/js/3.a1a98823.chunk.js.map": "/coding-bootcamp-landing-page/static/js/3.a1a98823.chunk.js.map",
+    "index.html": "/coding-bootcamp-landing-page/index.html",
+    "static/css/main.5a5867ae.chunk.css.map": "/coding-bootcamp-landing-page/static/css/main.5a5867ae.chunk.css.map",
+    "static/js/2.89c41df5.chunk.js.LICENSE.txt": "/coding-bootcamp-landing-page/static/js/2.89c41df5.chunk.js.LICENSE.txt",
+    "static/media/image-john.5253a557.jpg": "/coding-bootcamp-landing-page/static/media/image-john.5253a557.jpg",
+    "static/media/image-tanya.f54c0657.jpg": "/coding-bootcamp-landing-page/static/media/image-tanya.f54c0657.jpg",
+    "static/media/pattern-bg.7f46e67e.svg": "/coding-bootcamp-landing-page/static/media/pattern-bg.7f46e67e.svg",
+    "static/media/pattern-curve.05698a95.svg": "/coding-bootcamp-landing-page/static/media/pattern-curve.05698a95.svg",
+    "static/media/pattern-quotes.219bd182.svg": "/coding-bootcamp-landing-page/static/media/pattern-quotes.219bd182.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd1da652.js",
+    "static/js/2.89c41df5.chunk.js",
+    "static/css/main.5a5867ae.chunk.css",
+    "static/js/main.d9855f1a.chunk.js"
+  ]
+}
